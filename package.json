@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "版本测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ping",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.1.0"
+  }
+}
